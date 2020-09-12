@@ -16,22 +16,14 @@ title: Research
 subtitle:
 
 design:
-  columns: "1"
-  background:
-    image: headers/bubbles-wide.jpg
-    image_darken: 0.6
-    image_parallax: true
-    image_position: center
-    image_size: cover
-    text_color_light: true
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+  columns: "2"
+  
 ---
 
 **Working Papers**
 
-* <details>
-  <summary>**Who cares about Inflation? - Endogenous Expectation Formation of Heterogeneous Households**</summary>
+<details>
+  <summary> Who cares about Inflation? - Endogenous Expectation Formation of Heterogeneous Households </summary>
   
   This paper studies the effect of wealth levels on households' inflation expectations. Using data from the DNB Household Survey, we show absolute forecast errors as well as the dispersion of expectations across households to be decreasing in assets and debt. These patterns can be rationalized in a consumption-savings model with endogenous expectation formation, where households can exert effort to reduce uncertainty about future price changes. The implied consumption response to news about inflation is hump shaped in wealth: Wealthier households pay closer attention and update their expectations more in response to a signal received, but change their consumption less after any given update in expectations due to the income effect of future inflation. In a quantitative exercise, we show this mechanism to reduce the on-impact aggregate consumption response to forward guidance policies up to 55% compared to an attentive counterfactual. 
   
