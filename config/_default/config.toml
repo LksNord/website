@@ -14,7 +14,7 @@ baseurl = "https://lukasnord.eu/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; Lukas Nord ({year})"
+copyright = "&copy; Lukas Nord ({year}), [Legal Notice](https://lukasnord.eu/legal/)"
 
 ############################
 ## Advanced options below ##
