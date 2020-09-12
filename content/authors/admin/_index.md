@@ -66,6 +66,6 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-I am a PhD Candidate in Economics at the [European University Institute](https://www.eui.eu/DepartmentsAndCentres/Economics), working under the supervision of [Árpád Ábrahám](http://apps.eui.eu/Personal/Abraham/) and [Russell Cooper](https://sites.google.com/site/coopereconomics/).
+I am a PhD Candidate in Economics at the EUI in Florence, working under the supervision of [Árpád Ábrahám](http://apps.eui.eu/Personal/Abraham/) and [Russell Cooper](https://sites.google.com/site/coopereconomics/).
 
 My Research is focussed on Macroeconomics, especially Household Heterogeneity and Computational Methods.
