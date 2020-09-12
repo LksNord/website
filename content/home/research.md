@@ -21,6 +21,7 @@ design:
 ---
 
 **Working Papers**
+-------------------
 
 <details>
   <summary>
