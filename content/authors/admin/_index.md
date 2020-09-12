@@ -16,10 +16,10 @@ role: PhD Candidate
 organizations:
 - name: Department of Economics
         European University Institute
-  url: ""
+  url: "https://www.eui.eu/DepartmentsAndCentres/Economics"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Candidate in Economics at the European University Institute (EUI), working under the supervision of Arpad Abraham and Russell Cooper. My Research is focussed on Macroeconomics, especially Household Heterogeneity and Computational Methods.
+bio: I am a PhD Candidate in Economics at the European University Institute, working under the supervision of Arpad Abraham and Russell Cooper. My Research is focussed on Macroeconomics, especially Household Heterogeneity and Computational Methods.
 
 #interests:
 #- Artificial Intelligence
@@ -49,13 +49,13 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/LksNord
-- icon: cv
-  icon_pack: ai
-  link: files/Nord_CV.pdf
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-
+#- icon: cv
+#  icon_pack: ai
+#  link: files/Nord_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,7 +66,6 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-
-I am a PhD Candidate in Economics at the European University Institute (EUI), working under the supervision of Árpád Ábrahám and Russell Cooper.
+I am a PhD Candidate in Economics at the [European University Institute](https://www.eui.eu/DepartmentsAndCentres/Economics), working under the supervision of [Árpád Ábrahám](http://apps.eui.eu/Personal/Abraham/) and [Russell Cooper](https://sites.google.com/site/coopereconomics/).
 
 My Research is focussed on Macroeconomics, especially Household Heterogeneity and Computational Methods.
