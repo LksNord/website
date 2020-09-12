@@ -19,7 +19,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Candidate in Economics at the European University Institute (EUI), working under the supervision of Árpád Ábrahám and Russell Cooper.
+bio: I am a PhD Candidate in Economics at the European University Institute (EUI), working under the supervision of Arpad Abraham and Russell Cooper.
 My Research is focussed on Macroeconomics, especially Household Heterogeneity and Computational Methods.
 
 interests:
