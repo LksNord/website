@@ -10,17 +10,16 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate in Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Economics
-
-        European University Institute
+- name:  European University Institute
   url: "https://www.eui.eu/DepartmentsAndCentres/Economics"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Candidate in Economics at the European University Institute, working under the supervision of Arpad Abraham and Russell Cooper. My Research is focussed on Macroeconomics, especially Household Heterogeneity and Computational Methods.
+bio: I am a PhD Candidate in Economics at the European University Institute, where my thesis advisors are Arpad Abraham and Russell Cooper. My Research Interests are Macroeconomics and Household Heterogeneity.
+
 
 #interests:
 #- Artificial Intelligence
@@ -67,6 +66,6 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-I am a PhD Candidate in Economics at the EUI in Florence, working under the supervision of [Árpád Ábrahám](http://apps.eui.eu/Personal/Abraham/) and [Russell Cooper](https://sites.google.com/site/coopereconomics/).
+I am a PhD Candidate in Economics at the EUI in Florence, where my thesis advisors are [Árpád Ábrahám](http://apps.eui.eu/Personal/Abraham/) and [Russell Cooper](https://sites.google.com/site/coopereconomics/).
 
-My Research is focussed on Macroeconomics, especially Household Heterogeneity and Computational Methods.
+My Research Interests are Macroeconomics and Household Heterogeneity.
