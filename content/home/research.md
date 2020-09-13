@@ -27,7 +27,7 @@ design:
 
 <details>
   <summary>
-  <b>Who cares about Inflation? - Endogenous Expectation Formation of Heterogeneous Households</b>
+  <b>Who cares about Inflation? <br> Endogenous Expectation Formation of Heterogeneous Households</b>
 </summary>
   
   <p align=justify>
