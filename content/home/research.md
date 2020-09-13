@@ -17,6 +17,8 @@ subtitle:
 
 design:
   columns: "2"
+
+#[Paper](https://lukasnord.eu/files/hetexp.pdf)
   
 ---
 
@@ -35,4 +37,4 @@ design:
 
 </details> 
 
-#[Paper](https://lukasnord.eu/files/hetexp.pdf)
+{{% button href="https://getgrav.org/" %}}Get Grav{{% /button %}}
