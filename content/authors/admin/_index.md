@@ -13,7 +13,10 @@ superuser: true
 role: PhD Candidate
 
 # Organizations/Affiliations
-organizations: [{name= "Department of Economics <br> European University Institute", url ="https://www.eui.eu/DepartmentsAndCentres/Economics" }]
+organizations:
+- name: Department of Economics <br>
+        European University Institute
+  url: "https://www.eui.eu/DepartmentsAndCentres/Economics"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD Candidate in Economics at the European University Institute, working under the supervision of Arpad Abraham and Russell Cooper. My Research is focussed on Macroeconomics, especially Household Heterogeneity and Computational Methods.
