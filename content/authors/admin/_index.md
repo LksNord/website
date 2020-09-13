@@ -14,7 +14,8 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Economics <br>
+- name: Department of Economics
+
         European University Institute
   url: "https://www.eui.eu/DepartmentsAndCentres/Economics"
 
