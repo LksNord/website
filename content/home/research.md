@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "2"
 
-#[Paper](https://lukasnord.eu/files/hetexp.pdf)
+
   
 ---
 
