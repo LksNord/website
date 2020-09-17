@@ -18,7 +18,7 @@ organizations:
   url: "https://www.eui.eu/DepartmentsAndCentres/Economics"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Candidate in Economics at the European University Institute, where my thesis advisors are Arpad Abraham and Russell Cooper. My Research Interests are Macroeconomics and Household Heterogeneity.
+bio: I am a PhD Candidate in Economics at the European University Institute, where my thesis advisors are Arpad Abraham and Russell Cooper. My Research Interests cover Macroeconomics with Household Heterogeneity.
 
 
 #interests:
@@ -75,4 +75,4 @@ email: ""
 
 I am a PhD Candidate in Economics at the EUI in Florence, where my thesis advisors are [Árpád Ábrahám](http://apps.eui.eu/Personal/Abraham/) and [Russell Cooper](https://sites.google.com/site/coopereconomics/).
 
-My Research Interests are Macroeconomics and Household Heterogeneity.
+My Research Interests cover Macroeconomics with Household Heterogeneity.
