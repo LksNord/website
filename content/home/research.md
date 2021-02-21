@@ -17,15 +17,6 @@ subtitle:
 
 design:
   columns: "2"
-
-#**Work in Progress**
-#---------------------
-
-#**Joint Search over the Life Cycle** with Annika Bacher and Philipp Grübener
-
-#**Distributional Consequences of Bank Equity Shocks** with Caterina Mendicino and Marcel Peruffo 
-
-#**The Expenditure Margin and Relative Price Dynamics**
   
 ---
 
@@ -46,5 +37,15 @@ design:
 [Paper](https://lukasnord.eu/files/hetexp.pdf)
 
 
+**Work in Progress**
+---------------------
+
+**Joint Search over the Life Cycle**
+(with Annika Bacher and [Philipp Grübener](https://philippgruebener.com))
+
+**Distributional Consequences of Bank Equity Shocks**
+(with [Caterina Mendicino](https://sites.google.com/site/caterinamendicino/) and [Marcel Peruffo](https://sites.google.com/view/marcelperuffo)) 
+
+#**The Expenditure Margin and Relative Price Dynamics**
 
 
