@@ -36,13 +36,15 @@ design:
 
 [Paper](https://lukasnord.eu/files/hetexp.pdf)
 
+<br>
+<br>
 
 **Work in Progress**
 ---------------------
 
-<b>Joint Search over the Life Cycle<b> <br>(with Annika Bacher and [Philipp Grübener](https://philippgruebener.com))
+<b>Joint Search over the Life Cycle</b> <br>(with Annika Bacher and [Philipp Grübener](https://philippgruebener.com))
 
-<b>Distributional Effects of Bank Equity Losses<b> <br>(with [Caterina Mendicino](https://sites.google.com/site/caterinamendicino/) and [Marcel Peruffo](https://sites.google.com/view/marcelperuffo)) 
+<b>Distributional Effects of Bank Equity Losses</b> <br>(with [Caterina Mendicino](https://sites.google.com/site/caterinamendicino/) and [Marcel Peruffo](https://sites.google.com/view/marcelperuffo)) 
 
 
 
