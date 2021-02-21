@@ -41,11 +41,12 @@ design:
 ---------------------
 
 **Joint Search over the Life Cycle**
+
 (with Annika Bacher and [Philipp Grübener](https://philippgruebener.com))
 
-**Distributional Consequences of Bank Equity Shocks**
+**Distributional Effects of Bank Equity Losses**
+
 (with [Caterina Mendicino](https://sites.google.com/site/caterinamendicino/) and [Marcel Peruffo](https://sites.google.com/view/marcelperuffo)) 
 
-#**The Expenditure Margin and Relative Price Dynamics**
 
 
