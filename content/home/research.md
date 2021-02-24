@@ -42,7 +42,7 @@ design:
 **Work in Progress**
 ---------------------
 
-<b>Joint Search over the Life Cycle</b> (with Annika Bacher and [Philipp Grübener](https://philippgruebener.com))
+<b>Joint Search over the Life Cycle</b> (with [Annika Bacher](https://sites.google.com/view/annikabacher/) and [Philipp Grübener](https://philippgruebener.com))
 
 <b>Distributional Effects of Bank Equity Losses</b> (with [Caterina Mendicino](https://sites.google.com/site/caterinamendicino/) and [Marcel Peruffo](https://sites.google.com/view/marcelperuffo)) 
 
