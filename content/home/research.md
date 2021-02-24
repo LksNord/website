@@ -23,6 +23,8 @@ design:
 **Working Papers**
 -------------------
 
+<br>
+
 <details>
   <summary>
   <b>Who cares about Inflation? - <br> Endogenous Expectation Formation of Heterogeneous Households</b>
@@ -41,6 +43,8 @@ design:
 
 **Work in Progress**
 ---------------------
+
+<br>
 
 <b>Joint Search over the Life Cycle</b> <br>(with [Annika Bacher](https://sites.google.com/view/annikabacher/) and [Philipp Grübener](https://philippgruebener.com))
 
