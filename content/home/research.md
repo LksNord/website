@@ -46,11 +46,33 @@ design:
 
 <br>
 
-<b>Joint Search over the Life Cycle</b> <br>(with [Annika Bacher](https://sites.google.com/view/annikabacher/) and [Philipp Grübener](https://philippgruebener.com))
+
+<details>
+  <summary>
+  <b>Joint Search over the Life Cycle</b>
+</summary>
+  
+  <p align=justify>
+  This paper studies how the added worker effect - intra-household insurance through increased spousal labor market participation - varies over the life-cycle. We show in U.S. data that the added worker effect is much stronger for young than for old households. A stochastic life-cycle model of two-member households with job search in a frictional labor market is capable of replicating this finding. The model suggests that a lower added worker effect for the old is driven primarily by better insurance through asset holdings. A shorter horizon until retirement during which labor force entry of the spouse pays off accounts for most of the remaining gap, with a smaller role for human capital differences between young and old. We discuss implications for labor market flows and the design of public insurance.
+</p>
+
+</details> 
+(with [Annika Bacher](https://sites.google.com/view/annikabacher/) and [Philipp Grübener](https://philippgruebener.com))
 
 <br>
 
-<b>Distributional Effects of Bank Equity Losses</b> <br>(with [Caterina Mendicino](https://sites.google.com/site/caterinamendicino/) and [Marcel Peruffo](https://sites.google.com/view/marcelperuffo)) 
+<b></b> <br>
 
 
+<details>
+  <summary>
+  <b>Distributional Effects of Bank Equity Losses</b>
+</summary>
+  
+  <p align=justify>
+  This paper quantifies the distributional and welfare effects of severe shocks to the banking sector. We develop a heterogeneous-agent model featuring income and portfolio heterogeneity and a banking sector subject to financial frictions. We then study the dynamics of consumption and the welfare consequences along several dimensions of the income and wealth distribution in response to a severe bank equity shock. The negative overall impact on the economy masks substantial heterogeneity. Poor, liquidity-constrained agents are hit the hardest, owing to an increase in lending rates and a reduction in wages. Rich individuals can better insure against the shock and also take advantage of low asset prices and  high future returns on capital. As a consequence, around 4% of the population is better off after the shock hits. Computing households overall willingness to pay to avoid the bank disruption, we find that they would  be willing to give up a total amount of liquid wealth sufficient to cover the losses in the banking sector. 
+</p>
+
+</details> 
+(with [Caterina Mendicino](https://sites.google.com/site/caterinamendicino/) and [Marcel Peruffo](https://sites.google.com/view/marcelperuffo)) 
 
