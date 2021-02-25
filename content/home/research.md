@@ -53,7 +53,7 @@ design:
 </summary>
   
   <p align=justify>
-  This paper studies how the added worker effect - intra-household insurance through increased spousal labor market participation - varies over the life-cycle. We show in U.S. data that the added worker effect is much stronger for young than for old households. A stochastic life-cycle model of two-member households with job search in a frictional labor market is capable of replicating this finding. The model suggests that a lower added worker effect for the old is driven primarily by better insurance through asset holdings. A shorter horizon until retirement during which labor force entry of the spouse pays off accounts for most of the remaining gap, with a smaller role for human capital differences between young and old. We discuss implications for labor market flows and the design of public insurance.
+  This paper studies how the added worker effect -- intra-household insurance through increased spousal labor market participation -- varies over the life-cycle. We show in U.S. data that the added worker effect is much stronger for young than for old households. A stochastic life-cycle model of two-member households with job search in a frictional labor market is capable of replicating this finding. The model suggests that a lower added worker effect for the old is driven primarily by better insurance through asset holdings. A shorter horizon until retirement during which labor force entry of the spouse pays off accounts for most of the remaining gap, with a smaller role for human capital differences between young and old. We discuss implications for labor market flows and the design of public insurance.
 </p>
 
 </details> 
