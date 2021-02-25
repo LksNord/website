@@ -57,11 +57,12 @@ design:
 </p>
 
 </details> 
+
 (with [Annika Bacher](https://sites.google.com/view/annikabacher/) and [Philipp Grübener](https://philippgruebener.com))
 
 <br>
 
-<b></b> <br>
+
 
 
 <details>
@@ -74,5 +75,6 @@ design:
 </p>
 
 </details> 
+
 (with [Caterina Mendicino](https://sites.google.com/site/caterinamendicino/) and [Marcel Peruffo](https://sites.google.com/view/marcelperuffo)) 
 
