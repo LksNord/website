@@ -84,3 +84,6 @@ design:
 
 (with [Caterina Mendicino](https://sites.google.com/site/caterinamendicino/) and [Marcel Peruffo](https://sites.google.com/view/marcelperuffo)) 
 
+<br>
+
+<b>The Expenditure Margin, Relative Prices and Inequality</b>
