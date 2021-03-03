@@ -23,7 +23,7 @@ design:
 **Working Papers**
 -------------------
 
-<br>
+<!-- <br> -->
 
 <details>
   <summary>
@@ -46,7 +46,7 @@ design:
 **Work in Progress**
 ---------------------
 
-<br>
+<!-- <br> -->
 
 
 <details>
@@ -64,7 +64,7 @@ design:
 
 (with [Annika Bacher](https://sites.google.com/view/annikabacher/) and [Philipp Grübener](https://philippgruebener.com))
 
-<br>
+<!-- <br> -->
 
 
 
@@ -84,6 +84,6 @@ design:
 
 (with [Caterina Mendicino](https://sites.google.com/site/caterinamendicino/) and [Marcel Peruffo](https://sites.google.com/view/marcelperuffo)) 
 
-<br>
+<!-- <br> -->
 
 <b>The Expenditure Margin, Relative Prices and Inequality</b>
